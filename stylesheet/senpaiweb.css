@@ -2,5 +2,12 @@
 {
     display: grid;
     grid-template-columns: auto auto;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+body
+{
+    text-align: center;
 }
 
