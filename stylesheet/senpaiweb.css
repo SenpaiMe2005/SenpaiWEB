@@ -11,6 +11,7 @@ body
     text-align: center;
     background-color: #008dff;
     margin: 0;
+    width: auto;
 }
 .FLOAT_LEFT
 {
