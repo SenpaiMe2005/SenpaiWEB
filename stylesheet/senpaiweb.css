@@ -9,5 +9,14 @@
 body
 {
     text-align: center;
+    background-color: #008dff;
 }
+.FLOAT_LEFT
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+}
+
 
