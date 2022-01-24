@@ -1,3 +1,7 @@
+body{
+    width: 100vw;
+}
+
 .INFO_CLASS
 {
     display: grid;
@@ -11,7 +15,6 @@ body
     text-align: center;
     background-color: #008dff;
     margin: 0;
-    width: auto;
 }
 .FLOAT_LEFT
 {
@@ -31,4 +34,11 @@ border-bottom: 5px solid black;
 .IMG_CLASS
 {
     height: 15rem;
+}
+
+img{
+    width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
