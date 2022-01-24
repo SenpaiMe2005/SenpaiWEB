@@ -27,5 +27,7 @@ background: linear-gradient(90deg, rgba(1,144,111,1) 0%, rgba(1,144,111,1) 2%, r
 margin: 0;
 border-bottom: 5px solid black;
 }
-
-
+.IMG_CLASS
+{
+    height: 15rem;
+}
