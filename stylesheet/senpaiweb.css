@@ -104,17 +104,28 @@ border-bottom: 5px solid black;
     margin-right: auto; 
     float: right;
     margin-right: -15%;
+    margin-top: 20px;
 
-    display: grid;
-    grid-template-columns: auto auto;
-    float: right;
-    margin-top: 50px;
+    position: absolute;
+    top: 2250px;
+    right: 665px;
 }
-.EH > .RAINBOW_CLASS
+.RAINBOW_CLASS
 {
-    display: grid;
-    grid-template-columns: auto auto;
+    margin-top: 20px;
     float: left;
+    margin-left: 25%;
+    border-radius: 25%;
+
+    position: absolute;
+    top: 2250px;
+  right: 965px;
+}
+.FUCKYOUKENNETH
+{
+    position: absolute;
+    top: 2200px;
+    right: 725px;
 }
 
 
