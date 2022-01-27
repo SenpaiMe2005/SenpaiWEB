@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
 body{
     width: 100vw;
+    font-family: 'Source Code Pro', monospace;
 }
 
 .INFO_CLASS
@@ -22,6 +25,7 @@ body
     background-color: white;
     padding: 1rem;
     padding-left: 2rem;
+    margin-right: 15px;
 }
 h1
 {
@@ -43,3 +47,74 @@ border-bottom: 5px solid black;
     margin-left: auto;
     margin-right: auto;
 }
+.FLOAT_RIGHT
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+}
+.HOBBY_CLASS
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.GAMES_CLASS
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.COOKIE_GAME
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto; 
+    float: left;
+    margin-left: 25%;
+}
+.COOKIE
+{
+    float: right;
+    width: 15%;
+    margin-right: 25%;
+    border-radius: 25%;
+}
+.RAINBOW
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto; 
+    float: right;
+    margin-right: -15%;
+
+    display: grid;
+    grid-template-columns: auto auto;
+    float: right;
+    margin-top: 50px;
+}
+.EH > .RAINBOW_CLASS
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    float: left;
+}
+
+
