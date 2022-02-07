@@ -84,13 +84,13 @@ border-bottom: 5px solid black;
     margin-left: auto;
     margin-right: auto; 
     float: left;
-    margin-left: 25%;
+    margin-left: 35%;
 }
 .COOKIE
 {
     float: right;
     width: 15%;
-    margin-right: 25%;
+    margin-right: 31%;
     border-radius: 25%;
 }
 .RAINBOW
@@ -102,13 +102,9 @@ border-bottom: 5px solid black;
     width: 15%;
     margin-left: auto;
     margin-right: auto; 
-    float: right;
-    margin-right: -15%;
-    margin-top: 20px;
+    float: left;
+    margin-left: 30%;
 
-    position: absolute;
-    top: 2250px;
-    right: 665px;
 }
 .Games_class
 {
@@ -117,7 +113,7 @@ border-bottom: 5px solid black;
     padding: 1rem;
     padding-left: 2rem;
     width: 15%;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: auto;
 }
 
