@@ -110,5 +110,14 @@ border-bottom: 5px solid black;
     top: 2250px;
     right: 665px;
 }
-
+.Games_class
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
