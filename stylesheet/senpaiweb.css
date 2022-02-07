@@ -115,5 +115,13 @@ border-bottom: 5px solid black;
     width: 15%;
     margin-right: auto;
     margin-left: auto;
+    list-style-type: none;
+}
+.RAINBOW_CLASS
+{
+    float: right;
+    width: 15%;
+    margin-right: 31%;
+    border-radius: 25%;
 }
 
