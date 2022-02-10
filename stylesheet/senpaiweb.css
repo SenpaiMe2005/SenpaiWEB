@@ -124,4 +124,22 @@ border-bottom: 5px solid black;
     margin-right: 31%;
     border-radius: 25%;
 }
+.Osu
+{
+    float: left;
+    margin-left: 25%;
+    width: 15%;
+    height: auto;
+}
+.osu_class
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto;
+    list-style-type: none;;
+}
 
