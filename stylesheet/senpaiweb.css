@@ -140,6 +140,22 @@ border-bottom: 5px solid black;
     width: 15%;
     margin-right: auto;
     margin-left: auto;
-    list-style-type: none;;
+}
+.valorant 
+{
+    float: left;
+    margin-left: 25%;
+    width: 15%;
+    height: auto;
+}
+.Valorant_class
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
