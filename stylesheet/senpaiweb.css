@@ -159,4 +159,22 @@ border-bottom: 5px solid black;
     margin-right: auto;
     margin-left: auto;
 }
+.forntie
+{
+    float: left;
+    margin-left: 25%;
+    width: 15%;
+    height: auto;
+    border-radius: 15%;
+}
+.Fortnite_class
+{
+    border-radius: 15%;
+    background-color: white;
+    padding: 1rem;
+    padding-left: 2rem;
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto; 
+}
 
